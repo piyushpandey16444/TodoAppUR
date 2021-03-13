@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "C:\\Users\\HP\\.virtualenvs\\TodoApp-jgRTsHD7\\Scripts\\python.exe",
+    "python.autoComplete.extraPaths": ["C:\\Users\\HP\\.virtualenvs\\TodoApp-jgRTsHD7\\Scripts\\python.exe"],
+    "editor.formatOnPaste": true,
+    "python.formatting.provider": "autopep8",
+    "python.linting.enabled": true,
+    "python.linting.lintOnSave": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylamaArgs": [ "--load-plugin=pylint_django"]
+}
